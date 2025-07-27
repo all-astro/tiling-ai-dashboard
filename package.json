@@ -14,7 +14,7 @@
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.24",
     "html2pdf.js": "^0.10.1",
-    "react-calendar": "^3.10.0"
+    "react-calendar": "^3.9.0"
   },
   "devDependencies": {
     "typescript": "^5.0.4"
